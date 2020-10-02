@@ -8,3 +8,4 @@ numpy==1.18.1
 paramiko==2.7.1
 icepyx==0.3.0
 ipython==7.18.1
+descartes==1.1.0
