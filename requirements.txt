@@ -9,4 +9,4 @@ paramiko==2.7.1
 icepyx==0.3.0
 ipython==7.18.1
 descartes==1.1.0
-basemap==1.2.1
+basemap==1.2.0
