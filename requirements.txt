@@ -18,3 +18,4 @@ recommonmark==0.6.0
 icepyx==0.3.0
 descartes==1.1.0
 cartopy==0.17.0
+proj==4.9.0
