@@ -27,6 +27,5 @@ dependencies:
   - GitPython
   - ipython
   - recommonmark
-  - icepyx
   - descartes
   
